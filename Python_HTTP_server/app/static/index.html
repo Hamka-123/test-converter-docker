@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
+    <!-- <script type="module" src="js/v2/main.js"></script> -->
+    <title>Document</title>
+</head>
+<body>
+    <h1>Test static content</h1>
+    <button onclick="f1()">Non founded file</button>
+    <button onclick="get_users()">Get users from file across server</button>
+    <button onclick="get_users_from_server_and_draw()">Get and draw users table from api across server</button>
+    <button onclick="handleTes4()">get users from api dirertly from api</button>
+    <div id="result"></div>
+
+    <aside>
+        <hr/>
+        <h2>Currency Converter</h2>
+        <button id="GetAllRates">Get All Rates</button>
+        <button id="Converter">Converter</button>
+        <button id="GetAllLogs">Show Logs</button>
+
+        <div id="ConverterBlock">
+            <h3>Rate: <span></span></h3>
+            <input name="FromAmount" type="number" min="0" step="0.01" placeholder="1.00">
+            <select name="currFrom"></select>
+            <button id="toogleCurr">&#8644;</button>
+            <input name="ToAmount" type="number" min="0" step="0.01" placeholder="1.00">
+            <select name="currTo"></select>
+        </div>
+
+        <div id="result2"></div>
+    </aside>
+</body>
+</html>

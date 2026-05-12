@@ -1,0 +1,62 @@
+Если ты решишь добавить PostgreSQL, архитектурная красота твоего подхода раскроется в полной мере. Тебе не придется переписывать сервер — ты просто добавишь новый «кирпичик» в систему.
+
+Вот как изменится твой проект:
+
+1. Добавление драйвера
+Тебе нужно будет установить библиотеку для работы с Postgres (обычно это psycopg2-binary) и добавить её в свой requirements.txt.
+
+2. Обновление data/db_connector.py
+Ты просто расширяешь метод get_connection. Теперь твой коннектор будет знать о третьем игроке:
+
+Python
+import psycopg2 # Добавляем импорт
+
+class DBConnector:
+    def __init__(self):
+        self.db_type = os.getenv("DB_TYPE", "mysql")
+
+    def get_connection(self):
+        if self.db_type == "mysql":
+            # ... твой код для MariaDB ...
+        elif self.db_type == "postgres":
+            return psycopg2.connect(
+                host=os.getenv("DB_HOST", "postgres-server"),
+                database=os.getenv("DB_NAME", "currency_db"),
+                user=os.getenv("DB_USER", "app_user"),
+                password=os.getenv("DB_PASSWORD", "app_password")
+            )
+        else:
+            # ... SQLite ...
+
+    def get_placeholder(self):
+        # В Postgres тоже используется %s, как и в MySQL
+        if self.db_type in ["mysql", "postgres"]:
+            return "%s"
+        return "?"
+3. Новая миграция (например, MariaDB ➡️ Postgres)
+Чтобы перенести данные, ты создаешь файл data/migrations/m003_maria_to_postgres.py. Логика будет идентичной m001, только «приемником» будет Postgres.
+
+4. Запуск
+Теперь, чтобы всё приложение (или миграция) заработало на Postgres, тебе достаточно просто изменить одну строчку при запуске:
+
+Bash
+DB_TYPE=postgres python db_manage.py migrate m003_maria_to_postgres
+Почему Postgres — это "другой мир"?
+Хотя синтаксис SQL похож, у Postgres есть свои особенности, которые нужно учитывать в репозитории или миграциях:
+
+Типы данных: Вместо DOUBLE в Postgres чаще используют NUMERIC или DOUBLE PRECISION.
+
+Автоинкремент: В Postgres нет AUTO_INCREMENT, там используется тип SERIAL.
+
+Регистр: Postgres чувствителен к кавычкам и регистру имен таблиц.
+
+Итог: Что ты получила в плане архитектуры?
+Благодаря тому, что ты вынесла DB_TYPE в переменные окружения и создала Repository:
+
+Server.py остается девственно чистым. Он даже не знает, что появилась новая база.
+
+DBConnector инкапсулирует (прячет) в себе детали подключения.
+
+Repository автоматически адаптируется под нужный плейсхолдер (? или %s).
+
+Это и есть тот самый «взрослый» подход, когда код приложения не привязан жестко к конкретной технологии хранения данных. Ты можешь менять базы хоть каждый день, просто обновляя DB_TYPE.

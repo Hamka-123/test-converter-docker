@@ -1,0 +1,468 @@
+2026-04-28 06:23:19,581 [INFO] App started...
+2026-04-28 06:36:44,088 [INFO] App started...
+2026-04-28 06:38:46,953 [INFO] App started...
+2026-04-28 06:43:10,672 [INFO] App started...
+2026-04-28 06:43:23,563 [INFO] Draw users task done. <built-in method count of str object at 0xffff9957f2e0>
+2026-04-28 06:50:43,786 [INFO] App started...
+2026-04-28 06:52:41,017 [INFO] Draw users task done. 10
+2026-04-28 06:53:28,646 [INFO] Draw users task done. 10
+2026-04-28 06:53:44,475 [INFO] App started...
+2026-04-28 06:54:51,476 [INFO] Draw users task done. 10 users
+2026-04-28 06:57:09,727 [INFO] App started...
+2026-04-28 06:57:23,848 [INFO] Get rates task done. 164
+2026-04-28 06:59:49,495 [INFO] App started...
+2026-04-28 07:00:23,652 [INFO] SUCCESS:100 USD to 92.0 EUR saved to DB.
+2026-04-28 07:00:23,661 [INFO] Convesion task done.
+2026-04-28 07:34:21,015 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 07:34:29,718 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 07:34:56,850 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:13:46,988 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:13:56,226 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:30:50,557 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:31:31,211 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:32:49,425 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:33:03,413 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:36:20,695 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:36:46,399 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:36:49,467 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:37:29,771 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:37:49,756 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:40:21,067 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:45:28,397 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:46:03,990 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:46:15,734 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:46:28,089 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:47:34,314 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:47:50,254 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:47:53,573 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:49:04,382 [INFO] Get rates task done. 164 rates fetched
+2026-04-28 08:51:12,403 [INFO] Get rates task done. 164 rates fetched
+2026-04-29 04:56:56,670 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 04:57:27,149 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 04:57:46,936 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 04:59:32,914 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:02:07,227 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:03:37,400 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:04:06,471 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:05:28,092 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:06:03,422 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:09:43,283 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:10:06,626 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:11:30,293 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:12:13,022 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:12:29,368 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:48:59,048 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:53:14,240 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:54:15,581 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:56:52,598 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 05:58:24,047 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:04:03,352 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:04:48,446 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:06:43,224 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:16:15,899 [INFO] App started...
+2026-04-29 06:16:26,516 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:16:41,129 [INFO] SUCCESS:1.0 AMD to 0.009882755925423573 AED saved to DB.
+2026-04-29 06:16:44,578 [INFO] SUCCESS:1.0 AMD to 0.009882755925423573 AED saved to DB.
+2026-04-29 06:16:46,352 [INFO] SUCCESS:2.0 AMD to 0.019765511850847146 AED saved to DB.
+2026-04-29 06:17:07,010 [INFO] SUCCESS:2.0 ILS to 2.4601693945290144 AED saved to DB.
+2026-04-29 06:17:10,838 [INFO] SUCCESS:2.0 ILS to 0.6699095799473503 USD saved to DB.
+2026-04-29 06:17:21,406 [INFO] SUCCESS:2.0 USD to 5.9709550657782335 ILS saved to DB.
+2026-04-29 06:17:44,799 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:17:47,956 [INFO] SUCCESS:5.0 AED to 5.0 AED saved to DB.
+2026-04-29 06:17:52,147 [INFO] SUCCESS:5.0 USD to 18.361951136169484 AED saved to DB.
+2026-04-29 06:17:55,788 [INFO] SUCCESS:5.0 USD to 14.927387664445584 ILS saved to DB.
+2026-04-29 06:18:00,364 [INFO] SUCCESS:5.0 ILS to 1.6747739498683758 USD saved to DB.
+2026-04-29 06:18:31,510 [INFO] SUCCESS:5.0 USD to 14.927387664445584 ILS saved to DB.
+2026-04-29 06:21:08,606 [INFO] App started...
+2026-04-29 06:21:32,647 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:21:36,659 [INFO] SUCCESS:2.0 AED to 2.0 AED saved to DB.
+2026-04-29 06:21:39,496 [INFO] SUCCESS:2.0 AED to 35.06 AFN saved to DB.
+2026-04-29 06:22:24,380 [INFO] SUCCESS:2.0 AFN to 0.11 AED saved to DB.
+2026-04-29 06:22:42,100 [INFO] SUCCESS:2.0 AFN to 0.03 USD saved to DB.
+2026-04-29 06:22:50,983 [INFO] SUCCESS:2.0 ILS to 0.67 USD saved to DB.
+2026-04-29 06:22:56,446 [INFO] SUCCESS:2.0 USD to 5.97 ILS saved to DB.
+2026-04-29 06:32:30,844 [INFO] App started...
+2026-04-29 06:32:45,545 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:32:47,990 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:32:53,928 [INFO] SUCCESS:1.0 AED to 1.0 AED saved to DB.
+2026-04-29 06:32:55,354 [INFO] SUCCESS:1.0 AED to 1.0 AED saved to DB.
+2026-04-29 06:32:56,285 [INFO] SUCCESS:1.0 AED to 1.0 AED saved to DB.
+2026-04-29 06:32:57,621 [INFO] SUCCESS:1.0 AED to 1.0 AED saved to DB.
+2026-04-29 06:33:01,558 [INFO] SUCCESS:1.0 AED to 1.0 AED saved to DB.
+2026-04-29 06:33:07,186 [INFO] SUCCESS:1.0 AED to 250.94 AOA saved to DB.
+2026-04-29 06:33:13,485 [INFO] SUCCESS:1.0 AOA to 0.0 AED saved to DB.
+2026-04-29 06:33:19,058 [INFO] SUCCESS:1.0 AWG to 2.05 AED saved to DB.
+2026-04-29 06:33:20,765 [INFO] SUCCESS:2.0 AWG to 4.1 AED saved to DB.
+2026-04-29 06:33:22,695 [INFO] SUCCESS:2.0 AED to 0.98 AWG saved to DB.
+2026-04-29 06:33:25,430 [INFO] SUCCESS:2.0 AWG to 4.1 AED saved to DB.
+2026-04-29 06:33:26,364 [INFO] SUCCESS:2.0 AED to 0.98 AWG saved to DB.
+2026-04-29 06:33:26,963 [INFO] SUCCESS:2.0 AWG to 4.1 AED saved to DB.
+2026-04-29 06:33:27,760 [INFO] SUCCESS:2.0 AED to 0.98 AWG saved to DB.
+2026-04-29 06:38:09,058 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:38:15,271 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:38:18,308 [INFO] SUCCESS:2.0 AED to 2.0 AED saved to DB.
+2026-04-29 06:38:20,692 [INFO] SUCCESS:2.0 AED to 44.42 ALL saved to DB.
+2026-04-29 06:38:22,180 [INFO] SUCCESS:44.42 ALL to 2.0 AED saved to DB.
+2026-04-29 06:38:23,937 [INFO] SUCCESS:2.0 AED to 44.42 ALL saved to DB.
+2026-04-29 06:38:25,074 [INFO] SUCCESS:44.42 ALL to 2.0 AED saved to DB.
+2026-04-29 06:38:37,333 [INFO] SUCCESS:44.42 ILS to 54.64 AED saved to DB.
+2026-04-29 06:38:40,630 [INFO] SUCCESS:44.42 ILS to 14.88 USD saved to DB.
+2026-04-29 06:38:46,412 [INFO] SUCCESS:1.0 ILS to 0.33 USD saved to DB.
+2026-04-29 06:38:47,981 [INFO] SUCCESS:1.0 USD to 2.99 ILS saved to DB.
+2026-04-29 06:38:49,576 [INFO] SUCCESS:1.0 USD to 2.99 ILS saved to DB.
+2026-04-29 06:38:58,147 [INFO] SUCCESS:2.99 ILS to 1.0 USD saved to DB.
+2026-04-29 06:39:13,210 [INFO] SUCCESS:1.0 USD to 2.99 ILS saved to DB.
+2026-04-29 06:39:13,871 [INFO] SUCCESS:10.0 USD to 29.85 ILS saved to DB.
+2026-04-29 06:39:14,039 [INFO] SUCCESS:100.0 USD to 298.55 ILS saved to DB.
+2026-04-29 06:42:45,860 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:43:02,325 [INFO] SUCCESS:1.0 USD to 2.99 ILS saved to DB.
+2026-04-29 06:43:11,043 [INFO] SUCCESS:1000.0 USD to 2985.48 ILS saved to DB.
+2026-04-29 06:43:13,867 [INFO] SUCCESS:100.0 USD to 298.55 ILS saved to DB.
+2026-04-29 06:43:18,511 [INFO] SUCCESS:100.0 USD to 298.55 ILS saved to DB.
+2026-04-29 06:43:22,157 [INFO] SUCCESS:5000.0 ILS to 1674.77 USD saved to DB.
+2026-04-29 06:46:38,372 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:46:40,745 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:47:13,389 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:48:26,595 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:48:44,891 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:49:02,532 [INFO] SUCCESS:5000.0 ILS to 1430.7 EUR saved to DB.
+2026-04-29 06:49:36,049 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:49:43,321 [INFO] SUCCESS:5000.0 ILS to 1430.7 EUR saved to DB.
+2026-04-29 06:50:16,766 [INFO] SUCCESS:5000.0 ILS to 1430.7 EUR saved to DB.
+2026-04-29 06:50:32,545 [INFO] SUCCESS:2000.0 EUR to 6989.6 ILS saved to DB.
+2026-04-29 06:54:42,952 [INFO] App started...
+2026-04-29 06:54:59,223 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 06:55:02,290 [ERROR] DB Error: table conversions has no column named rate
+2026-04-29 06:59:39,069 [INFO] App started...
+2026-04-29 06:59:55,372 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:07:54,220 [INFO] App started...
+2026-04-29 07:08:34,780 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:08:52,381 [INFO] SUCCESS: 1.0 USD to 0.85 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:08:52,384 [INFO] Success: 1.0 USD -> 0.85 EUR (Rate: 0.8543)
+2026-04-29 07:09:53,231 [INFO] App started...
+2026-04-29 07:20:58,701 [INFO] App started...
+2026-04-29 07:21:14,422 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:21:16,398 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:21:41,623 [INFO] SUCCESS: 1.0 EUR to 3.49 ILS at rate 3.4948 saved to DB.
+2026-04-29 07:21:48,237 [INFO] SUCCESS: 1.0 ILS to 0.29 EUR at rate 0.2861 saved to DB.
+2026-04-29 07:21:56,088 [INFO] SUCCESS: 1.0 ILS to 0.29 EUR at rate 0.2861 saved to DB.
+2026-04-29 07:22:07,399 [INFO] SUCCESS: 10.0 ILS to 2.86 EUR at rate 0.2861 saved to DB.
+2026-04-29 07:22:40,862 [INFO] SUCCESS: 10.0 EUR to 34.95 ILS at rate 3.4948 saved to DB.
+2026-04-29 07:22:55,334 [INFO] SUCCESS: 100.0 EUR to 349.48 ILS at rate 3.4948 saved to DB.
+2026-04-29 07:22:57,047 [INFO] SUCCESS: 100.0 EUR to 349.48 ILS at rate 3.4948 saved to DB.
+2026-04-29 07:23:18,699 [INFO] SUCCESS: 349.48 USD to 298.56 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:23:21,942 [INFO] SUCCESS: 100.0 EUR to 117.06 USD at rate 1.1706 saved to DB.
+2026-04-29 07:23:30,166 [INFO] SUCCESS: 117.06 USD to 100.0 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:23:44,152 [INFO] SUCCESS: 100.0 USD to 85.43 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:23:49,644 [INFO] SUCCESS: 85.43 EUR to 100.0 USD at rate 1.1706 saved to DB.
+2026-04-29 07:23:58,301 [INFO] SUCCESS: 10.0 USD to 8.54 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:25:26,016 [INFO] SUCCESS: 1.0 EUR to 1.0 EUR at rate 1.0 saved to DB.
+2026-04-29 07:25:34,332 [INFO] SUCCESS: 1.0 USD to 0.85 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:25:40,936 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:26:01,481 [INFO] SUCCESS: 1.0 USD to 0.85 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:27:55,813 [INFO] SUCCESS: 2.0 USD to 1.71 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:27:56,765 [INFO] SUCCESS: 2.5 USD to 2.14 EUR at rate 0.8543 saved to DB.
+2026-04-29 07:29:33,986 [INFO] SUCCESS: 5.0 EUR to 5.85 USD at rate 1.1706 saved to DB.
+2026-04-29 07:30:25,630 [INFO] SUCCESS: 0.01 EUR to 0.01 USD at rate 1.1706 saved to DB.
+2026-04-29 07:30:26,450 [INFO] SUCCESS: 0.03 EUR to 0.04 USD at rate 1.1706 saved to DB.
+2026-04-29 07:32:27,236 [INFO] SUCCESS: 5.0 EUR to 5.0 EUR at rate 1.0 saved to DB.
+2026-04-29 07:34:39,968 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:38:38,038 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:38:46,247 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:38:51,830 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:39:52,349 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:40:51,870 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:41:33,494 [INFO] SUCCESS: 100.0 EUR to 117.06 USD at rate 1.1706 saved to DB.
+2026-04-29 07:46:16,359 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:51:16,401 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 07:56:16,426 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:01:16,938 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:06:16,414 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:11:16,474 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:16:16,397 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:21:16,424 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:26:16,364 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:31:16,455 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:36:16,388 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:41:16,404 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:46:16,431 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:51:16,423 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 08:56:16,444 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:01:16,818 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:06:16,428 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:11:16,462 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:16:16,448 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:21:16,483 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:22:42,333 [INFO] App started...
+2026-04-29 09:25:02,995 [INFO] App started...
+2026-04-29 09:30:34,581 [INFO] App started...
+2026-04-29 09:37:36,098 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:42:40,506 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:47:40,517 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:52:40,506 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 09:57:40,499 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 10:02:40,895 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 10:07:40,493 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 10:12:40,485 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 10:17:40,491 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 10:22:40,495 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 11:42:36,037 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:19:55,604 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:24:55,112 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:29:55,120 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:34:55,087 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:39:55,138 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:44:55,072 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:49:55,100 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:54:55,087 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 12:59:55,081 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:04:55,527 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:09:55,056 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:17:11,263 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:22:11,190 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:27:11,243 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:32:11,771 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:37:11,309 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:42:11,299 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:47:11,369 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:52:11,324 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 13:57:11,326 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:21:45,629 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:26:45,110 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:31:45,157 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:36:45,171 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:41:45,161 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:46:45,134 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:51:45,160 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 14:56:45,120 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 15:01:45,716 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 15:06:45,101 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 15:11:45,132 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 15:16:45,179 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 15:55:40,699 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:05:06,087 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:26:20,097 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:31:20,080 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:36:20,085 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:41:20,064 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:46:20,095 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:51:20,139 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 17:56:20,132 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 18:01:20,596 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 18:06:20,235 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 18:11:20,171 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 18:16:20,171 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 18:21:20,220 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:25:17,251 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:30:16,863 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:35:16,862 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:40:16,846 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:45:16,825 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:50:16,824 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 19:55:16,833 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 20:00:16,798 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 20:05:16,882 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 20:10:16,822 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 20:15:16,814 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 20:20:16,851 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 20:57:20,400 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:02:19,930 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:07:19,937 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:12:19,932 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:17:19,949 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:22:19,930 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:27:19,955 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:32:19,938 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:37:19,930 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:42:19,924 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:47:19,959 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:52:19,926 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 21:57:20,028 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 22:33:27,123 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 22:54:15,243 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 22:59:15,173 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 23:51:25,845 [INFO] Get rates task done. 163 rates fetched
+2026-04-29 23:56:25,743 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:01:26,252 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:06:25,786 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:11:25,790 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:16:25,760 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:21:25,804 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:26:25,782 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:31:25,798 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:36:25,790 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:41:25,806 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 00:46:25,804 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 01:33:01,866 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 01:54:50,404 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 01:59:50,376 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:04:50,411 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:09:50,371 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:14:50,389 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:19:50,370 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:24:50,411 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:29:50,361 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:34:50,359 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:39:50,348 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:44:50,367 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 02:49:50,352 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 03:55:19,187 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:00:19,566 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:05:19,486 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:10:19,062 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:15:19,070 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:20:19,054 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:25:19,095 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:30:19,093 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:35:19,189 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:40:19,120 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:45:19,125 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 04:50:19,121 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 05:37:53,828 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 05:42:53,818 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 05:47:53,782 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 05:52:53,791 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 05:57:53,801 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:02:54,156 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:07:53,826 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:12:53,758 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:17:53,802 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:22:53,832 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:27:53,823 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:32:53,849 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 06:37:53,864 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 07:44:15,184 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 07:49:14,743 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 08:40:49,047 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 08:45:48,451 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 08:50:48,495 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 08:55:48,479 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:00:49,030 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:05:48,507 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:10:48,504 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:15:48,516 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:20:48,537 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:25:48,489 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:30:48,528 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 09:35:48,495 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 10:14:43,946 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 11:31:28,737 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 11:36:28,229 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 11:41:52,794 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 11:46:52,763 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 12:07:17,919 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 12:45:10,541 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 12:50:10,451 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 12:55:10,464 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:00:10,926 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:05:10,498 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:10:10,440 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:15:10,517 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:25:10,288 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:40:06,783 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:45:06,064 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:50:06,106 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 13:55:06,011 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:00:06,496 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:05:06,547 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:10:06,087 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:15:06,085 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:20:06,103 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:25:06,084 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:30:06,100 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 14:35:06,567 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 15:26:45,959 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 16:55:50,495 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 17:48:19,463 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:10:41,343 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:15:41,415 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:20:41,348 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:25:41,355 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:30:41,812 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:35:41,393 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:40:41,366 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:45:41,396 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:50:41,385 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 18:55:41,458 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 19:00:41,376 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 19:05:41,420 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 19:51:40,752 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 19:56:40,753 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:01:40,839 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:06:40,752 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:11:40,752 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:16:40,799 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:21:40,805 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:26:40,929 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:31:41,266 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:36:40,787 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:41:40,735 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 20:46:40,750 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 21:22:41,363 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 21:43:28,987 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:03:27,621 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:08:27,496 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:13:27,554 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:18:27,464 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:23:27,444 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:28:27,501 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:33:27,539 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:38:27,490 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:43:27,490 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:48:27,472 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:53:27,467 [INFO] Get rates task done. 163 rates fetched
+2026-04-30 22:58:27,460 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 00:06:07,935 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 00:11:07,485 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 00:47:08,696 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 00:52:08,589 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 00:57:08,636 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:02:08,673 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:07:08,760 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:12:08,629 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:17:08,719 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:22:08,696 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:27:08,734 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:32:08,679 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:37:08,681 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 01:42:08,671 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:03:02,143 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:08:02,137 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:13:02,124 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:18:02,183 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:23:02,169 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:28:02,132 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:33:02,186 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:38:02,146 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:43:02,174 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:48:02,200 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:53:02,179 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 02:58:02,198 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 03:51:57,767 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 04:29:56,152 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 04:34:55,673 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 04:49:11,485 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 04:54:11,461 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 04:59:12,439 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 07:45:44,447 [INFO] Get rates task done. 163 rates fetched
+2026-05-01 07:50:43,903 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:16:01,769 [INFO] App started...
+2026-05-05 05:16:52,488 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:17:24,042 [INFO] SUCCESS: 2.0 ANG to 0.95 EUR at rate 0.477 saved to DB.
+2026-05-05 05:17:37,376 [INFO] SUCCESS: 2.0 ANG to 0.95 EUR at rate 0.477 saved to DB.
+2026-05-05 05:17:41,987 [INFO] SUCCESS: 1.0 EUR to 2.1 ANG at rate 2.0963 saved to DB.
+2026-05-05 05:17:49,146 [INFO] SUCCESS: 1.0 ANG to 0.48 EUR at rate 0.477 saved to DB.
+2026-05-05 05:21:53,134 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:30:38,850 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:35:38,847 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:48:37,802 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:53:37,779 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 05:58:37,780 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 06:03:38,197 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 06:08:37,799 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 08:18:59,385 [INFO] App started...
+2026-05-05 08:26:36,552 [INFO] App started...
+2026-05-05 08:26:49,743 [INFO] Get rates task done. 163 rates fetched
+2026-05-05 08:26:56,763 [INFO] SUCCESS: 23.0 EUR to 23.0 EUR at rate 1.0 saved to DB.
+2026-05-05 08:34:41,047 [INFO] SUCCESS: 0.02 EUR to 0.02 EUR at rate 1.0 saved to DB.
+2026-05-05 08:34:44,216 [INFO] Get rates task done. 163 rates fetched
