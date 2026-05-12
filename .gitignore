@@ -1,3 +1,27 @@
-how_to.txt
-Python_HTTP_server/app/GUIDE.md
-Python_HTTP_server/app/__pycache__
+# Временные файлы и кэш операционных систем
+.DS_Store
+Thumbs.db
+
+# Общий кэш
+*.cache
+.cache/
+tmp/
+temp/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+node_modules/
+.eslintcache
+.stylelintcache
+.node_repl_history
+.npm/
+
+.idea/
+.vscode/
+*.swp
+*.swo
+

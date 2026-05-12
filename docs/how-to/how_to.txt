@@ -1,0 +1,24 @@
+1. Создай сеть
+docker network create currency-net
+
+2. Запусти MariaDB (без Dockerfile, просто командой):
+docker run -d \
+  --name mariadb-server \
+  --network currency-net \
+  -e MARIADB_ROOT_PASSWORD=secret \
+  -e MARIADB_DATABASE=currency_db \
+  -v "$(pwd)/db_data:/var/lib/mysql" \
+  mariadb:latest
+
+3. Запусти PHPMyAdmin:
+docker run -d \
+  --name phpmyadmin-gui \
+  --network currency-net \
+  -e PMA_HOST=mariadb-server \
+  -p 8081:80 \
+  phpmyadmin:latest
+
+
+
+  миграция данных
+  
