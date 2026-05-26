@@ -6,8 +6,8 @@ source "$(dirname "$0")/load_env.sh"
 
 # 2. ДИНАМИЧЕСКИЕ ПЕРЕМЕННЫЕ (Склеиваем то, что нельзя в .env)
 # Собираем полные имена образов (чертежей)
-DB_FULL_IMAGE="${DB_IMAGE_NAME}:${DB_IMAGE_TAG}"
-PMA_FULL_IMAGE="${PMA_IMAGE_NAME}:${PMA_IMAGE_TAG}"
+DB_FULL_IMAGE="${URL_LOCAL_DOCKER_REPO}${DB_IMAGE_NAME}:${DB_IMAGE_TAG}"
+PMA_FULL_IMAGE="${URL_LOCAL_DOCKER_REPO}${PMA_IMAGE_NAME}:${PMA_IMAGE_TAG}"
 
 # Собираем имена контейнеров (экземпляров)
 # ВАЖНО: Мы используем DB_HOST для имени контейнера базы, 

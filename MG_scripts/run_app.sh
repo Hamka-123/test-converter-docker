@@ -24,7 +24,7 @@ DOCKER_ARGUMENTS=(
     "--mount" "type=bind,source=${PROJECT_FOLDER}/app,target=/app"
     "--mount" "type=bind,source=${PROJECT_FOLDER}/http_root,target=/http_root"
     "-e" "DB_TYPE=${DB_TYPE}"
-    "${PY_IMAGE_NAME}:${PY_IMAGE_TAG}"
+    "${URL_LOCAL_DOCKER_REPO}${PY_IMAGE_NAME}:${PY_IMAGE_TAG}"
 )
 
 # 4. Вывод команды желтым цветом (для отладки)
