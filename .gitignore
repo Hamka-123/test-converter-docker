@@ -9,7 +9,8 @@ tmp/
 temp/
 
 # Python cache
-*__pycache__/
+__pycache__/
+*.pyc
 *.py[cod]
 *$py.class
 .pytest_cache/
@@ -36,7 +37,7 @@ certs/domain.key
 certs/domain.crt
 
 # Игнорируем физические данные (образы), иначе забьем весь гит гигабайтами слоев
-data/
+/data/
 
 # Игнорим файлы БД
 MariaDB/db_data/
