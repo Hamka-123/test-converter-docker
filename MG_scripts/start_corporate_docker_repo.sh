@@ -29,6 +29,8 @@ docker run -d \
     registry:2
 
 # docker tag python_http_server:1.0.0 localhost:5001/python_http_server:1.0.0
+# docker tag my_maria_image:1.0.0 localhost:5001/my_maria_image:1.0.0
+# docker tag phpmyadmin_image:1.0.0 localhost:5001/phpmyadmin_image:1.0.0
 
 # docker push localhost:5001/python_http_server:1.0.0
 

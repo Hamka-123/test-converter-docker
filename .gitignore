@@ -9,7 +9,7 @@ tmp/
 temp/
 
 # Python cache
-__pycache__/
+*__pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
@@ -26,12 +26,17 @@ node_modules/
 *.swp
 *.swo
 
-# Игнорируем физические данные (образы), иначе забьем весь гит гигабайтами слоев
-data/
+# Игнорим локальную базу пользователей и сертификаты для local-docker-registry
+auth/
+certs/
 
 # Игнорируем реальные секреты, пароли и ключи шифрования
 auth/htpasswd
 certs/domain.key
 certs/domain.crt
 
+# Игнорируем физические данные (образы), иначе забьем весь гит гигабайтами слоев
+data/
+
+# Игнорим файлы БД
 MariaDB/db_data/
