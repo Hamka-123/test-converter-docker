@@ -17,7 +17,7 @@ conn = mysql.connector.connect(
 print(conn)
 
 SQL_CREATE_TABLE = '''
-CREATE TABLE IF NOT EXISTS table_test1 (
+CREATE TABLE IF NOT EXISTS table_test2 (
     name VARCHAR(10),
     age INT
 )
@@ -33,3 +33,4 @@ conn = mysql.connector.connect(
 
 cursor = conn.cursor()
 cursor.execute(SQL_CREATE_TABLE)
+
